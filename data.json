@@ -1,0 +1,19 @@
+{
+  "flights": [
+    {
+      "flightNumber": "4OO",
+      "departureAirport": "SYD",
+      "arrivalAirport": "OOL",
+      "scheduledTimeOut": "2000Z",
+      "scheduledTimeIn": "2120Z"
+    },
+    {
+      "flightNumber": "401",
+      "departureAirport": "OOL",
+      "arrivalAirport": "SYD",
+      "scheduledTimeOut": "2000Z",
+      "scheduledTimeIn": "2125Z"
+    },
+    // Add more flight entries as needed
+  ]
+}
